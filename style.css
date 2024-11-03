@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  h1{
+    text-align: center;
+    background-color: brown;
+    color: white;
+  }
+  .text{
+    width: 700px;
+    background-color: aqua;
+    margin: 40px;
+    text-align: center;
+    
+  }
+  .divcha{
+    background-color: black;
+    border: 2px solid red;
+    margin-top: 20px;
+  }
